@@ -1,0 +1,48 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" i:viewOrigin="11.9551 88.021" i:rulerOrigin="0 0" i:pageBounds="0 100 100 0" width="76.146" height="76.147" viewBox="0 0 76.146 76.147" overflow="visible" enable-background="new 0 0 76.146 76.147" xml:space="preserve">
+	<metadata>
+		<variableSets xmlns="http://ns.adobe.com/Variables/1.0/">
+			<variableSet varSetName="binding1" locked="none">
+				<variables/>
+				<v:sampleDataSets xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/">
+					</v:sampleDataSets>
+			</variableSet>
+		</variableSets>
+		<sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+			<slices/>
+			<sliceSourceBounds y="-8142" x="-8141" width="16383" height="16383" bottomLeftOrigin="true"/>
+		</sfw>
+	</metadata>
+	<switch>
+		<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+			</foreignObject>
+		<g i:extraneous="self">
+			<g id="Layer_1" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#4F008000FFFF">
+				<g>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M10.819,28.698       l26.84-0.042"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M27.955,28.47"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M28.469,39.046"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M28.469,64.314"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M28.412,48.707"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M47.963,48.592"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M47.448,28.298"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" d="M1.144,38.245H74.66"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" d="M37.959,1.772v73.403"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" d="M74.945,38.073       c0,20.364-16.508,36.874-36.872,36.874S1.201,58.437,1.201,38.073c0-20.364,16.508-36.873,36.873-36.873       S74.945,17.709,74.945,38.073z"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M11.72,29.898       c0-8.918,9.432-18.179,18.05-17.793"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M28.012,48.191"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M11.548,48.191"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M28.583,28.641       l-0.014-17.564"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M64.756,47.091       l-26.84,0.043"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M63.855,45.891       c0,8.919-9.433,18.179-18.051,17.793"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M46.992,47.148       l0.014,17.565"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M28.762,65.378       l-0.042-26.84"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M29.963,64.477       c-8.918,0-18.179-9.433-17.793-18.05"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M28.705,47.613       l-17.564,0.015"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M47.156,10.755       l0.043,26.84"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M45.955,11.655       c8.918,0,18.18,9.432,17.793,18.05"/>
+					<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.401" stroke-miterlimit="8" d="M47.213,28.519       l17.564-0.014"/>
+				</g>
+			</g>
+		</g>
+	</switch>
+	</svg>
